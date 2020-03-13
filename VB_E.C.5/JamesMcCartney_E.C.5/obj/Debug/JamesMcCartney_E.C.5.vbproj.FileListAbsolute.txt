@@ -1,0 +1,10 @@
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_E.C.5\JamesMcCartney_E.C.5\bin\Debug\JamesMcCartney_E.C.5.exe.config
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_E.C.5\JamesMcCartney_E.C.5\bin\Debug\JamesMcCartney_E.C.5.exe
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_E.C.5\JamesMcCartney_E.C.5\bin\Debug\JamesMcCartney_E.C.5.pdb
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_E.C.5\JamesMcCartney_E.C.5\bin\Debug\JamesMcCartney_E.C.5.xml
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_E.C.5\JamesMcCartney_E.C.5\obj\Debug\JamesMcCartney_E.C._5.Form1.resources
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_E.C.5\JamesMcCartney_E.C.5\obj\Debug\JamesMcCartney_E.C._5.Resources.resources
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_E.C.5\JamesMcCartney_E.C.5\obj\Debug\JamesMcCartney_E.C.5.vbproj.GenerateResource.Cache
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_E.C.5\JamesMcCartney_E.C.5\obj\Debug\JamesMcCartney_E.C.5.exe
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_E.C.5\JamesMcCartney_E.C.5\obj\Debug\JamesMcCartney_E.C.5.xml
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_E.C.5\JamesMcCartney_E.C.5\obj\Debug\JamesMcCartney_E.C.5.pdb

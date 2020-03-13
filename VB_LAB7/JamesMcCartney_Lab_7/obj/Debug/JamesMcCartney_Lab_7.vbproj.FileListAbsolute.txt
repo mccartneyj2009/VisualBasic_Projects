@@ -1,0 +1,16 @@
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\bin\Debug\JamesMcCartney_Lab_7.exe.config
+C:\Users\jmccartney\Documents\Visual Studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\bin\Debug\JamesMcCartney_Lab_7.exe
+C:\Users\jmccartney\Documents\Visual Studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\bin\Debug\JamesMcCartney_Lab_7.pdb
+C:\Users\jmccartney\Documents\Visual Studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\bin\Debug\JamesMcCartney_Lab_7.xml
+C:\Users\jmccartney\Documents\Visual Studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\obj\Debug\MainWindow.baml
+C:\Users\jmccartney\Documents\Visual Studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\obj\Debug\Window1.baml
+C:\Users\jmccartney\Documents\Visual Studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\obj\Debug\MainWindow.g.vb
+C:\Users\jmccartney\Documents\Visual Studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\obj\Debug\Window1.g.vb
+C:\Users\jmccartney\Documents\Visual Studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\obj\Debug\Application.g.vb
+C:\Users\jmccartney\Documents\Visual Studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\obj\Debug\JamesMcCartney_Lab_7_MarkupCompile.cache
+C:\Users\jmccartney\Documents\Visual Studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\obj\Debug\JamesMcCartney_Lab_7.g.resources
+C:\Users\jmccartney\Documents\Visual Studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\obj\Debug\JamesMcCartney_Lab_7.Resources.resources
+C:\Users\jmccartney\Documents\Visual Studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\obj\Debug\JamesMcCartney_Lab_7.vbproj.GenerateResource.Cache
+C:\Users\jmccartney\Documents\Visual Studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\obj\Debug\JamesMcCartney_Lab_7.exe
+C:\Users\jmccartney\Documents\Visual Studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\obj\Debug\JamesMcCartney_Lab_7.xml
+C:\Users\jmccartney\Documents\Visual Studio 2012\Projects\JamesMcCartney_Lab_7\JamesMcCartney_Lab_7\obj\Debug\JamesMcCartney_Lab_7.pdb

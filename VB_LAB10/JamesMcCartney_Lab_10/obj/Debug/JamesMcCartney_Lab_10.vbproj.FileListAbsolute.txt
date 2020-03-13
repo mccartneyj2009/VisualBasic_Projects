@@ -1,0 +1,15 @@
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_10\JamesMcCartney_Lab_10\bin\Debug\JamesMcCartney_Lab_10.exe.config
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_10\JamesMcCartney_Lab_10\bin\Debug\dsStore.Designer.vb
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_10\JamesMcCartney_Lab_10\bin\Debug\dsStore.xsc
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_10\JamesMcCartney_Lab_10\bin\Debug\dsStore.xsd
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_10\JamesMcCartney_Lab_10\bin\Debug\dsStore.xss
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_10\JamesMcCartney_Lab_10\bin\Debug\store.mdb
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_10\JamesMcCartney_Lab_10\bin\Debug\JamesMcCartney_Lab_10.exe
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_10\JamesMcCartney_Lab_10\bin\Debug\JamesMcCartney_Lab_10.pdb
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_10\JamesMcCartney_Lab_10\bin\Debug\JamesMcCartney_Lab_10.xml
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_10\JamesMcCartney_Lab_10\obj\Debug\JamesMcCartney_Lab_10.Form1.resources
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_10\JamesMcCartney_Lab_10\obj\Debug\JamesMcCartney_Lab_10.Resources.resources
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_10\JamesMcCartney_Lab_10\obj\Debug\JamesMcCartney_Lab_10.vbproj.GenerateResource.Cache
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_10\JamesMcCartney_Lab_10\obj\Debug\JamesMcCartney_Lab_10.exe
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_10\JamesMcCartney_Lab_10\obj\Debug\JamesMcCartney_Lab_10.xml
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_10\JamesMcCartney_Lab_10\obj\Debug\JamesMcCartney_Lab_10.pdb

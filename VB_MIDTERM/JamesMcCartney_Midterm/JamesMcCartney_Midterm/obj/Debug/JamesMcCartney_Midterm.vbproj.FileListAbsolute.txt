@@ -1,0 +1,10 @@
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Midterm\JamesMcCartney_Midterm\bin\Debug\JamesMcCartney_Midterm.exe.config
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Midterm\JamesMcCartney_Midterm\bin\Debug\JamesMcCartney_Midterm.exe
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Midterm\JamesMcCartney_Midterm\bin\Debug\JamesMcCartney_Midterm.pdb
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Midterm\JamesMcCartney_Midterm\bin\Debug\JamesMcCartney_Midterm.xml
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Midterm\JamesMcCartney_Midterm\obj\Debug\JamesMcCartney_Midterm.Form1.resources
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Midterm\JamesMcCartney_Midterm\obj\Debug\JamesMcCartney_Midterm.Resources.resources
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Midterm\JamesMcCartney_Midterm\obj\Debug\JamesMcCartney_Midterm.vbproj.GenerateResource.Cache
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Midterm\JamesMcCartney_Midterm\obj\Debug\JamesMcCartney_Midterm.exe
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Midterm\JamesMcCartney_Midterm\obj\Debug\JamesMcCartney_Midterm.xml
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Midterm\JamesMcCartney_Midterm\obj\Debug\JamesMcCartney_Midterm.pdb

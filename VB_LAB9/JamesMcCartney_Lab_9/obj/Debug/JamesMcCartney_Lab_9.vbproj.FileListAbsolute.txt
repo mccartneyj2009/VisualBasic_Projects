@@ -1,0 +1,12 @@
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_9\JamesMcCartney_Lab_9\bin\Debug\JamesMcCartney_Lab_9.exe.config
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_9\JamesMcCartney_Lab_9\bin\Debug\JamesMcCartney_Lab_9.exe
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_9\JamesMcCartney_Lab_9\bin\Debug\JamesMcCartney_Lab_9.pdb
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_9\JamesMcCartney_Lab_9\bin\Debug\JamesMcCartney_Lab_9.xml
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_9\JamesMcCartney_Lab_9\obj\Debug\JamesMcCartney_Lab_9.Form1.resources
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_9\JamesMcCartney_Lab_9\obj\Debug\JamesMcCartney_Lab_9.Resources.resources
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_9\JamesMcCartney_Lab_9\obj\Debug\JamesMcCartney_Lab_9.vbproj.GenerateResource.Cache
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_9\JamesMcCartney_Lab_9\obj\Debug\JamesMcCartney_Lab_9.exe
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_9\JamesMcCartney_Lab_9\obj\Debug\JamesMcCartney_Lab_9.xml
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_9\JamesMcCartney_Lab_9\obj\Debug\JamesMcCartney_Lab_9.pdb
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_9\JamesMcCartney_Lab_9\obj\Debug\JamesMcCartney_Lab_9.Form2.resources
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_Lab_9\JamesMcCartney_Lab_9\obj\Debug\JamesMcCartney_Lab_9.webbrowser.resources

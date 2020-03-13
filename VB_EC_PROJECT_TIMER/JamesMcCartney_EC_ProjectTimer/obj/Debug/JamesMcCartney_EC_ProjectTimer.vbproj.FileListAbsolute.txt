@@ -1,0 +1,10 @@
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_EC_ProjectTimer\JamesMcCartney_EC_ProjectTimer\bin\Debug\JamesMcCartney_EC_ProjectTimer.exe.config
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_EC_ProjectTimer\JamesMcCartney_EC_ProjectTimer\bin\Debug\JamesMcCartney_EC_ProjectTimer.exe
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_EC_ProjectTimer\JamesMcCartney_EC_ProjectTimer\bin\Debug\JamesMcCartney_EC_ProjectTimer.pdb
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_EC_ProjectTimer\JamesMcCartney_EC_ProjectTimer\bin\Debug\JamesMcCartney_EC_ProjectTimer.xml
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_EC_ProjectTimer\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.Form1.resources
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_EC_ProjectTimer\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.Resources.resources
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_EC_ProjectTimer\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.vbproj.GenerateResource.Cache
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_EC_ProjectTimer\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.exe
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_EC_ProjectTimer\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.xml
+c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_EC_ProjectTimer\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.pdb
