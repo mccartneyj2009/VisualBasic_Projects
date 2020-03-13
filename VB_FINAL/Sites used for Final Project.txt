@@ -1,0 +1,9 @@
+Sites used for reference for Final Project:
+
+https://msdn.microsoft.com/en-us/library/aa984108(v=vs.71).aspx
+
+https://msdn.microsoft.com/en-us/library/aa289159(v=vs.71).aspx
+
+https://social.msdn.microsoft.com/Forums/en-US/d9153ff8-9c1c-4f8c-8c5a-a858cc2265b8/inserting-a-line-break-in-a-literal-string?forum=vbgeneral
+
+https://msdn.microsoft.com/en-us/library/zhc2xxtx(v=vs.110).aspx
