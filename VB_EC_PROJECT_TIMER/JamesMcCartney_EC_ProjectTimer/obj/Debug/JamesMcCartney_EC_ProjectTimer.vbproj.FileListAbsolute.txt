@@ -8,3 +8,14 @@ c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_EC_Proj
 c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_EC_ProjectTimer\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.exe
 c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_EC_ProjectTimer\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.xml
 c:\users\jmccartney\documents\visual studio 2012\Projects\JamesMcCartney_EC_ProjectTimer\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.pdb
+C:\Users\13303\source\repos\VB_COURSE_PROJECTS\VB_EC_PROJECT_TIMER\JamesMcCartney_EC_ProjectTimer\bin\Debug\JamesMcCartney_EC_ProjectTimer.exe.config
+C:\Users\13303\source\repos\VB_COURSE_PROJECTS\VB_EC_PROJECT_TIMER\JamesMcCartney_EC_ProjectTimer\bin\Debug\JamesMcCartney_EC_ProjectTimer.exe
+C:\Users\13303\source\repos\VB_COURSE_PROJECTS\VB_EC_PROJECT_TIMER\JamesMcCartney_EC_ProjectTimer\bin\Debug\JamesMcCartney_EC_ProjectTimer.pdb
+C:\Users\13303\source\repos\VB_COURSE_PROJECTS\VB_EC_PROJECT_TIMER\JamesMcCartney_EC_ProjectTimer\bin\Debug\JamesMcCartney_EC_ProjectTimer.xml
+C:\Users\13303\source\repos\VB_COURSE_PROJECTS\VB_EC_PROJECT_TIMER\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.vbprojAssemblyReference.cache
+C:\Users\13303\source\repos\VB_COURSE_PROJECTS\VB_EC_PROJECT_TIMER\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.Form1.resources
+C:\Users\13303\source\repos\VB_COURSE_PROJECTS\VB_EC_PROJECT_TIMER\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.Resources.resources
+C:\Users\13303\source\repos\VB_COURSE_PROJECTS\VB_EC_PROJECT_TIMER\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.vbproj.GenerateResource.cache
+C:\Users\13303\source\repos\VB_COURSE_PROJECTS\VB_EC_PROJECT_TIMER\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.exe
+C:\Users\13303\source\repos\VB_COURSE_PROJECTS\VB_EC_PROJECT_TIMER\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.xml
+C:\Users\13303\source\repos\VB_COURSE_PROJECTS\VB_EC_PROJECT_TIMER\JamesMcCartney_EC_ProjectTimer\obj\Debug\JamesMcCartney_EC_ProjectTimer.pdb
