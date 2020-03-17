@@ -1,5 +1,0 @@
-Sites used for reference:
-
-https://msdn.microsoft.com/en-us/library/8h84wky1.aspx
-https://www.youtube.com/watch?v=DDfwTUFu8U8&feature=youtu.be
-http://vb.net-informations.com/programflow/enum.htm
